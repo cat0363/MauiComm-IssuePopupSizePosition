@@ -1,0 +1,8 @@
+﻿<maui:MauiWinUIApplication
+    x:Class="MauiComm_IssuePopupSizePosition.WinUI.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:maui="using:Microsoft.Maui"
+    xmlns:local="using:MauiComm_IssuePopupSizePosition.WinUI">
+
+</maui:MauiWinUIApplication>
